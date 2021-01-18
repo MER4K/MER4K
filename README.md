@@ -2,6 +2,11 @@
   <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
   <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi Ladys and Gentlemen, my name is Ricardo, but you can call me MERAK or Asmita; whatever!</strong>
 </p>
+<p align="justify">
+  Currently a student in the second period of Business Administration at Faculdade Estacio de Sá, in Rio de Janeiro 🏫 and an aspiring software developer💻.
+  
+  Interested in working with backend, API's, databases and currently learning about Distributed Ledger technology. I occasionally participate in Hackathons 💡 and have a love/hate relationship with Programming 😐
+</p>
 <hr>
 
 **🔥 My contribution streak**<br>
