@@ -3,7 +3,7 @@
   <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi Ladys and Gentlemen, my name is Ricardo, but you can call me MERAK or Asmita; whatever!</strong>
 </p>
 <p align="justify">
-  Currently a student in the second period of Business Administration at Faculdade Estacio de Sá, in Rio de Janeiro 🏫 and an aspiring software developer💻.
+  Currently a student in the second period of Business Administration at University Estacio de Sá, in Rio de Janeiro 🏫 and an aspiring software developer 💻.
   
   Interested in working with backend, API's, databases and currently learning about Distributed Ledger technology. I occasionally participate in Hackathons 💡 and have a love/hate relationship with Programming 😐
 </p>
@@ -36,7 +36,7 @@
   <img src="https://madewithlove.now.sh/br?heart=true&template=for-the-badge">
 </p>
 
-**Languages and Frameworks**
+**🖥️ Languages and Frameworks**
 <p align="left">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
@@ -45,7 +45,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow"></code>
 </p>
 
-**Tools and Environments**
+**⚒️ Tools and Environments**
 <p align="left">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
